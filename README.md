@@ -1,6 +1,4 @@
 # CEEF-TMM-2021
-This is the Matlab code of paper "Joint Contrast Enhancement and Exposure Fusionfor Real-World Image Dehazing, IEEE TMM,2021"
-
 
 This package contains the MATLAB code which is associated with the following paper:
 
